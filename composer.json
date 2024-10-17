@@ -9,6 +9,13 @@
             "homepage": "https://tippindev.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Jemok/messenger.git"
+        }
+
+    ],
     "homepage": "https://github.com/rtippin/messenger-faker",
     "keywords": [
         "Laravel",
